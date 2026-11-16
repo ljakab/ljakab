@@ -1,3 +1,3 @@
 ```c
-while (curious) { build(); break(); learn(); } // what I cannot build, I do not understand (yet)
+while (curious) { build(); break(); learn(); } // "What I cannot create, I do not understand" --Feynman
 ```
